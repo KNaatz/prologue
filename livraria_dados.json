@@ -1,0 +1,37 @@
+[
+    {
+        "T\u00edtulo": "Game of Thrones",
+        "Autor": "George R.R. Martin",
+        "G\u00eanero": "Fic\u00e7\u00e3o Cient\u00edfica",
+        "Pre\u00e7o": "49.9",
+        "Estoque": "20"
+    },
+    {
+        "T\u00edtulo": "O Senhor dos An\u00e9is",
+        "Autor": "J.R.R. Tolkien",
+        "G\u00eanero": "Fantasia",
+        "Pre\u00e7o": "59.9",
+        "Estoque": "30"
+    },
+    {
+        "T\u00edtulo": "Coraline",
+        "Autor": "Neil Gaiman",
+        "G\u00eanero": "Fantasia",
+        "Pre\u00e7o": "39.9",
+        "Estoque": "40"
+    },
+    {
+        "T\u00edtulo": "Dr\u00e1cula",
+        "Autor": "Bram Stoker",
+        "G\u00eanero": "Romance",
+        "Pre\u00e7o": "39,90",
+        "Estoque": "23"
+    },
+    {
+        "T\u00edtulo": "O Corvo",
+        "Autor": "Edgar Allan Poe",
+        "G\u00eanero": "Mist\u00e9rio",
+        "Pre\u00e7o": "39,90",
+        "Estoque": "45"
+    }
+]
